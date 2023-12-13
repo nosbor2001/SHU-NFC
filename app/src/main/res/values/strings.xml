@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SHU Attendance Tracker</string>
+    <string name="intro_message">A simple application to record your UUID from your student card and send it to an attendance system\n\nYou use it by holding your student card against the back of your device for first time setup.\n\n</string>
+    <string name="no_nfc">NFC isn\'t supported on this device</string>
+    <string name="write_nfc_button">Log Attendance</string>
+    <string name="clear_all">Clear all</string>
+    <string name="close_app">Close app</string>
+</resources>
